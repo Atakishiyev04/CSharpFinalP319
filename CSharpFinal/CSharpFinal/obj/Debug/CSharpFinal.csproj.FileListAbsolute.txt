@@ -1,0 +1,7 @@
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\bin\Debug\CSharpFinal.exe.config
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\bin\Debug\CSharpFinal.exe
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\bin\Debug\CSharpFinal.pdb
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.csproj.AssemblyReference.cache
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.csproj.CoreCompileInputs.cache
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.exe
+C:\Users\Gamenote\C# Works\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.pdb
